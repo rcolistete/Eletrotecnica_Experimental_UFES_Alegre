@@ -1,6 +1,17 @@
-# Material de Eletrotécnica e Instalações Elétricas Experimental
+# Material
 
 Material extra que não consta no site do [Laboratório Professor Claudio Moisés Ribeiro](https://fisica.alegre.ufes.br/apresenta%C3%A7%C3%A3o-do-laborat%C3%B3rio-2-de-f%C3%ADsica), onde tem [lista de manuais de equipamentos](https://fisica.alegre.ufes.br/manuais-dos-equipamentos-do-laboratorio-professor-claudio-moises-ribeiro).
+
+## Resistores
+
+Disponíveis no laboratório em vários valores, potências e tolerâncias.
+
+Vide tutoriais sobre código de cores de resistores e calculadoras :
+- [Código de Cores de Resistores - Mundo da Eletrônica](https://www.mundodaeletrica.com.br/codigo-de-cores-de-resistores/);
+- [Tabela de Cores  Resistores Fixos - Saber 360](https://www.saber360.com.br/introdu%C3%A7%C3%A3o-aos-resistores);
+- [Calculadora de Resistores - Proesi](https://www.proesi.com.br/calculadora-e-tabela-de-resistores);
+- [Calculadora de Código de Cores de Resistores - Digikey](https://www.digikey.com.br/pt/resources/conversion-calculators/conversion-calculator-resistor-color-code).
+
 
 ## Cabos Jumpers
 
@@ -43,14 +54,22 @@ Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto
 
 ## Fontes de tensão elétrica contínua
 
-### Fonte de tensão elétrica contínua ajustável (3,3V e 5V) para protoboard
+### Fonte YwRobot MB102 de tensão elétrica contínua ajustável (3,3V e 5V) para protoboard
 
-Características:
-– tensão elétrica de entrada contínua via pino P4 : 6,5-12V
-– tensão elétrica de saída contínua : 3,3V e 5,0V selecionáveis via jumpers nos conectores inferiores para barramentos do protoboard, bem como em conectores superiores, além de 5,0V em porta USB-A;
-– corrente elétrica contínua máxima de saída: 700 mA.
+Características :  
+– tensão elétrica de entrada contínua via conector P4 : 6,5-12V;  
+– tensão elétrica de saída contínua : 3,3V e 5,0V selecionáveis via jumpers nos conectores inferiores para barramentos do protoboard, bem como em conectores superiores, além de 5,0V em porta USB-A;  
+– corrente elétrica contínua máxima de saída: 700 mA.  
+Obs.: a porta USB-A é citada em algumas referências como podendo ser usada como entrada, mas somente se a entrada do conector P4 não estiver sendo usada. A maioria das referências cita a porta USB-A como somente saída (quando a entrada via conector P4 estiver conectada).
 
-Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto/fonte-ajustavel-protoboard/).
+Referências :  
+- [matéria e vídeo (em português) com exemplo de uso - UsinaInfo](https://www.usinainfo.com.br/blog/fonte-ajustavel-para-protoboard-3-3v-e-5v-com-usb-e-p4/);
+- [matéria da Components.101](https://components101.com/modules/5v-mb102-breadboard-power-supply-module);
+- [matéria da Petervis](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
+- [matéria da Open Circuit](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
+- [vídeo no YouTube "YwRobot Breadboard Power Supply - ThatLEDGuy - 23/05/2017"](https://www.youtube.com/watch?v=ZpCep1jL-iA);
+- [Datasheet - Handson Tech](https://www.handsontec.com/dataspecs/mb102-ps.pdf);
+- à venda em várias lojas no Brasil e no exterior, por exemplo,  [na loja Maker Hero](https://www.makerhero.com/produto/fonte-ajustavel-protoboard/).
 
 <img src="https://www.makerhero.com/wp-content/uploads/2017/07/3PS02-1.jpg" alt=" Fonte DC de baixa tensão ajustável para protoboard" width="600"/>
 
@@ -62,3 +81,8 @@ Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto
 
 <img src="https://www.makerhero.com/wp-content/uploads/2017/07/Fonte-DC-Chaveada-9V-1A-Plug-P4.jpg" alt="Fonte DC Chaveada 9V 1A Plug P4" width="600"/>
 
+### Adaptador de bateria de 9V com pino P4
+
+Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto/suporte-bateria-9v-plug-p4/).
+
+<img src="https://www.makerhero.com/wp-content/uploads/2017/10/3PS09_3.jpg" alt="Adaptador de bateria de 9V com pino P4" width="600"/>
